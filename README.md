@@ -3,9 +3,9 @@ Link:- https://dbc-fc44f338-b1da.cloud.databricks.com/dashboardsv3/01f1ad2e2e511
 
 ## Dataset
 
-`ADNOC_Stock_historical_Data.csv` — daily OHLCV data for ADNOC stock, 2018-01-02 to 2024-05-30 (1,288 trading days), with derived columns: `Price_Change`, `Percentage_Change`, `Average_Price`, `Range`.
+Daily OHLCV data for ADNOC stock, 2018-01-02 to 2024-05-30 (1,288 trading days), with derived columns: `Price_Change`, `Percentage_Change`, `Average_Price`, `Range`.
 
-Additional engineered features (see `adnoc_feature_engineering.py`): `Daily_Return`, `MA_20/50/200`, `Volatility_20d`, `RSI_14`, `Bollinger_Upper/Lower`, `Volume_MA_20`, `Is_Green`, `Gap`, `Cumulative_Return`, `Drawdown`, `Year`, `Month`, `DayOfWeek`.
+Additional engineered features (see `cleaning.py`): `Daily_Return`, `MA_20/50/200`, `Volatility_20d`, `RSI_14`, `Bollinger_Upper/Lower`, `Volume_MA_20`, `Is_Green`, `Gap`, `Cumulative_Return`, `Drawdown`, `Year`, `Month`, `DayOfWeek`.
 
 ## Questions
 
