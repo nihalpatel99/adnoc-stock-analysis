@@ -26,7 +26,7 @@ Worst Year: 2023 → -15.20%
 <img width="1220" height="501" alt="image" src="https://github.com/user-attachments/assets/850e9429-547b-4191-abeb-b24564886eb0" />
 <img width="1247" height="521" alt="image" src="https://github.com/user-attachments/assets/ea8542a8-82e2-4dbc-9bed-674a5e5cc0e2" />
 
-2. **How has daily volatility (using Range or Percentage_Change) evolved over time?**
+2. **How has daily volatility evolved over time?**
 
 <img width="962" height="470" alt="image" src="https://github.com/user-attachments/assets/36836a11-d999-4c51-ade6-e2406ba02344" />
 
